@@ -1,1 +1,1 @@
-# genai-pyspark-pipeline
+Synthetic Data Generation
